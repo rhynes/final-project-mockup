@@ -1,2 +1,6 @@
 # final-project-mockup
-<img width="200px" src="images/mockup.JPG"/>
+![](doc/Landing.png)
+
+![](doc/CreateProfile.png)
+
+![](doc/Play.png)
